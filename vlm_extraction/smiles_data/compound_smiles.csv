@@ -1,0 +1,4 @@
+compound_id,smiles,source
+2f,COc1cc2c(cc1O)ncnc2Nc1cc(F)c(Cl)cc1O,test
+3a,COc1cc2c(cc1O)ncnc2Nc1ccccc1O,test
+3d,COc1cc2c(cc1O)ncnc2Nc1c(Cl)cccc1O,test

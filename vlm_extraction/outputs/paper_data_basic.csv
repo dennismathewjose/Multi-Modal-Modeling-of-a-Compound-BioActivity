@@ -1,0 +1,13 @@
+molecule_chembl_id,canonical_smiles,standard_value,pIC50,target_variant,source
+PAPER_2f,COc1cc2c(cc1O)ncnc2Nc1cc(F)c(Cl)cc1O,1795.3,5.7458629691145315,ic50_wt,paper
+PAPER_2f,COc1cc2c(cc1O)ncnc2Nc1cc(F)c(Cl)cc1O,18.8,7.72584215073632,ic50_del19,paper
+PAPER_2f,COc1cc2c(cc1O)ncnc2Nc1cc(F)c(Cl)cc1O,0.4,9.397940008672037,ic50_d747_752_p753s,paper
+PAPER_2f,COc1cc2c(cc1O)ncnc2Nc1cc(F)c(Cl)cc1O,1338.0,5.8735438865681955,ic50_l858r_t790m,paper
+PAPER_3a,COc1cc2c(cc1O)ncnc2Nc1ccccc1O,100000.0,4.0,ic50_wt,paper
+PAPER_3a,COc1cc2c(cc1O)ncnc2Nc1ccccc1O,685.2,6.164182645706527,ic50_del19,paper
+PAPER_3a,COc1cc2c(cc1O)ncnc2Nc1ccccc1O,1660.0,5.779891911959945,ic50_d747_752_p753s,paper
+PAPER_3a,COc1cc2c(cc1O)ncnc2Nc1ccccc1O,2355.0,5.628009088535085,ic50_l858r_t790m,paper
+PAPER_3d,COc1cc2c(cc1O)ncnc2Nc1c(Cl)cccc1O,100000.0,4.0,ic50_wt,paper
+PAPER_3d,COc1cc2c(cc1O)ncnc2Nc1c(Cl)cccc1O,1275.4,5.894353587348764,ic50_del19,paper
+PAPER_3d,COc1cc2c(cc1O)ncnc2Nc1c(Cl)cccc1O,4998.0,5.301203748209569,ic50_d747_752_p753s,paper
+PAPER_3d,COc1cc2c(cc1O)ncnc2Nc1c(Cl)cccc1O,706.4,6.150949309430488,ic50_l858r_t790m,paper
